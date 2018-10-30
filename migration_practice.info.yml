@@ -1,0 +1,9 @@
+name: 'Migration Practice'
+type: module
+description: 'Example custom migration imports from MySQL database '
+core: 8.x
+package: 'Custom'
+dependencies:
+  - migrate
+  - migrate_plus
+  - migrate_tools

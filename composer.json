@@ -1,0 +1,14 @@
+{
+  "name": "drupal/migration_practice",
+  "type": "drupal-module",
+  "description": "My Awesome Module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/migration_practice",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/migration_practice",
+    "source": "http://cgit.drupalcode.org/migration_practice"
+  },
+  "require": { }
+}
